@@ -1,2 +1,13 @@
-[README.md](https://github.com/SANIVARAPUHARINATH/stepin_implementing-phonebook/files/7127301/README.md)
+# test plan and test ouput
+Test plan:
+---------
+Testing of code is done using unit testing
+where each block of function is tested 
+
+
+Test output:
+-------------
+
+All the outputs obtained obtained are true
+* Add all the test paln and test output related files under thsi folder
 
